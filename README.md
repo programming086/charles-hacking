@@ -4,6 +4,7 @@ Hacking Charles Web Debugging Proxy
 
 # Works for
 
+- [4.2.7](4.2.7)
 - [4.2.6](4.2.6)
 - [4.2.5](4.2.5)
 - [4.2.1](4.2.1)
